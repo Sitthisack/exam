@@ -1,0 +1,60 @@
+header {
+  background-image: url("img/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  height: 525px;
+}
+
+
+#carouselExampleSlidesOnly {
+  height: 525px;
+}
+
+header h1 {
+  font-size: 45px;
+}
+
+footer div {
+  justify-content: center;
+  grid-gap: 50px;
+}
+
+footer img {
+  
+  width: 150px;
+	height: 120px;
+}
+
+.btnValidate {
+  border-radius: 0;
+}
+
+.locationContainer {
+  opacity: 0.9;
+  background-color: whitesmoke;
+}
+
+.textSizeHeader {
+  font-size: 15px;
+}
+
+.dropdown { 
+  position:static !important; 
+  
+} 
+
+.dropdown-menu { 
+  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)!important; 
+  margin-top:0px !important; 
+  width:100% !important; 
+}
+
+.menuDropDown:focus {
+  background:#FFF !important; 
+  color:#000 !important;
+}
+
+.btnTextSize {
+  font-size: 13px;
+}
